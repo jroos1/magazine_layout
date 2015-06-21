@@ -63,11 +63,18 @@ body {
 /*******************************************/
 
 
-header {
+header div {
      background-color: #d8d8d8;
      border: 1px solid black;
      height: 150px;
      margin-bottom: 20px;
+     width: 15%;
+     float: left;
+}
+
+.nav {
+     width: 10%;
+     float: right;
 }
 
 section {
